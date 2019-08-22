@@ -15,5 +15,6 @@ Updated daily :) If it was helpful please press a star.
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/darpanzope/Hackerrank-Solutions.svg)](https://github.com/darpanzope/Hackerrank-Solutions) 
 [![GitHub stars](https://img.shields.io/github/stars/darpanzope/Hackerrank-Solutions.svg)](https://github.com/darpanzope/Hackerrank-Solutions)
 
+[![GitHub All Releases](https://img.shields.io/github/downloads/darpanzope/Hackerrank-Solutions.svg)](https://github.com/darpanzope/Hackerrank-Solutions)
 
 <hr>
