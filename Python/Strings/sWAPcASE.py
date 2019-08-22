@@ -7,6 +7,7 @@ Created   :
 Problem   : https://www.hackerrank.com/challenges/swap-case/problem
 '''
 
+
 def swap_case(s):
     newstring = ""
     
@@ -17,3 +18,8 @@ def swap_case(s):
             newstring += item.upper()
             
     return newstring
+
+#------------------------------------------
+
+
+print(input().swapcase())
