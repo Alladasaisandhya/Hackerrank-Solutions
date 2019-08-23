@@ -14,6 +14,6 @@ Updated daily :) If it was helpful please press a star.
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/darpanzope/Hackerrank-Solutions.svg)](https://github.com/darpanzope/Hackerrank-Solutions)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/darpanzope/Hackerrank-Solutions.svg)](https://github.com/darpanzope/Hackerrank-Solutions) 
 [![GitHub stars](https://img.shields.io/github/stars/darpanzope/Hackerrank-Solutions.svg)](https://github.com/darpanzope/Hackerrank-Solutions)
-[![GitHub All Releases](https://img.shields.io/github/download/darpanzope/Hackerrank-Solutions.svg)](https://github.com/darpanzope/Hackerrank-Solutions)
+[![GitHub All Releases](https://img.shields.io/github/downloads/darpanzope/Hackerrank-Solutions/total.svg)](https://github.com/darpanzope/Hackerrank-Solutions)
 
 <hr>
