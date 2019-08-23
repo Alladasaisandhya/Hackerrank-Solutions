@@ -4,7 +4,7 @@
 
 
 ## Solutions to Hackerrank practice problems
-This repository contains 44 solutions to Hackerrank practice problems with C++.
+This folder contains 44 solutions to Hackerrank practice problems with C++.
 
 Updated daily :) If it was helpful please press a star.
 
