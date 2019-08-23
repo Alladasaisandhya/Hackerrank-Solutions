@@ -20,6 +20,7 @@ Updated daily :) If it was helpful please press a star.
 ### [C++](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/cpp) &nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png">
 ### [Python](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/Python) <img src="https://img.icons8.com/color/24/000000/python.png">
 ### [Regex](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/regex)  &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAAZaC0GHV7cTN4ovetDwqn953K2COUtEIS_IyecY2Uuthqx2H" height="24px" width="24px">
+### [Shell](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/shell) &nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/office/24/000000/console.png">
 
 
 <hr>
