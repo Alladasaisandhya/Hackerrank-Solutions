@@ -1,0 +1,13 @@
+add_hackerrank(attending-workshops attending-workshops.cpp)
+add_hackerrank(c-class-templates c-class-templates.cpp)
+add_hackerrank(preprocessor-solution preprocessor-solution.cpp)
+add_hackerrank(bitset-1 bitset-1.cpp)
+add_hackerrank(cpp-variadics cpp-variadics.cpp)
+add_hackerrank(cpp-class-template-specialization cpp-class-template-specialization.cpp)
+add_hackerrank(overload-operators overload-operators.cpp)
+add_hackerrank(operator-overloading operator-overloading.cpp)
+
+dirty_cpp(attending-workshops)
+dirty_cpp(preprocessor-solution)
+dirty_cpp(overload-operators)
+dirty_cpp(operator-overloading)

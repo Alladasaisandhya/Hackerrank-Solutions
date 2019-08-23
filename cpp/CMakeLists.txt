@@ -1,0 +1,7 @@
+add_subdirectory(classes)
+add_subdirectory(cpp-introduction)
+add_subdirectory(cpp-strings)
+add_subdirectory(inheritance)
+add_subdirectory(other-concepts)
+add_subdirectory(stl)
+add_subdirectory(cpp-debugging)
