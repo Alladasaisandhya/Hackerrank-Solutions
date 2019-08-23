@@ -18,7 +18,7 @@ Updated daily :) If it was helpful please press a star.
 
 ### [C](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/c)
 ### [C++](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/cpp)
-### [Python](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/Python)
+### [Python](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/Python) <img src="https://img.icons8.com/color/24/000000/python.png">
 
 
 <hr>
