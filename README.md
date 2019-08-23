@@ -16,4 +16,9 @@ Updated daily :) If it was helpful please press a star.
 [![GitHub stars](https://img.shields.io/github/stars/darpanzope/Hackerrank-Solutions.svg)](https://github.com/darpanzope/Hackerrank-Solutions)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darpanzope/Hackerrank-Solutions/total.svg)](https://github.com/darpanzope/Hackerrank-Solutions)
 
+### [C](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/c)
+### [C++](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/cpp)
+### [Python](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/Python)
+
+
 <hr>
