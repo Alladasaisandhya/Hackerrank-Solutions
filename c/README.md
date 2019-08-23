@@ -4,7 +4,7 @@
 
 
 ## Solutions to Hackerrank practice problems
-This repository contains 115 solutions to Hackerrank practice problems with Python3.
+This folder contains 25 solutions to Hackerrank practice problems with C.
 
 Updated daily :) If it was helpful please press a star.
 

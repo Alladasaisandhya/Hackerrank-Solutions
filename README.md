@@ -16,9 +16,9 @@ Updated daily :) If it was helpful please press a star.
 [![GitHub stars](https://img.shields.io/github/stars/darpanzope/Hackerrank-Solutions.svg)](https://github.com/darpanzope/Hackerrank-Solutions)
 [![GitHub All Releases](https://img.shields.io/github/downloads/darpanzope/Hackerrank-Solutions/total.svg)](https://github.com/darpanzope/Hackerrank-Solutions)
 
-### [C](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/c)
-### [C++](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/cpp)
-### [Python](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/Python)
+### [C](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/c) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/color/24/000000/c-programming.png">
+### [C++](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/cpp) &nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png">
+### [Python](https://github.com/darpanzope/Hackerrank-Solutions/tree/master/Python) <img src="https://img.icons8.com/color/24/000000/python.png">
 
 
 <hr>
